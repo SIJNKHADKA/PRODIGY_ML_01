@@ -1,7 +1,5 @@
 # Prodigy_ML_01
-Certainly! Here's a GitHub README template for your linear regression model for predicting house prices:
 
----
 
 # House Price Prediction using Linear Regression
 
